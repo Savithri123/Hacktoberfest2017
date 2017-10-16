@@ -64,5 +64,5 @@
 - Programming Language: Java, Kotlin, C++
 
 #### Name: [Savithri Nandadasa](https://github.com/Savithri123)
-- Bio: IT IT Enthusiast
+- Bio: IT Enthusiast
 - Programming Language: Java, Angular, C#
