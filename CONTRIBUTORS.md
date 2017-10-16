@@ -62,3 +62,7 @@
 #### Name: [Arnold Szabo](https://github.com/szaboa)
 - Bio: Android app developer
 - Programming Language: Java, Kotlin, C++
+
+#### Name: [Savithri Nandadasa](https://github.com/Savithri123)
+- Bio: IT IT Enthusiast
+- Programming Language: Java, Angular, C#
